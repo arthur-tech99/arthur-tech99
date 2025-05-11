@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu perfil!
 
-<!--
-**arthur-tech99/arthur-tech99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+Sou *Arthur, tenho 18 anos e estudo **Ciência da Computação*.  
+Programo em *Python* e recentemente co-fundei a *Solução Tech*, uma empresa de tecnologia criada com meu pai.  
+Busco todos os dias expandir meus conhecimentos e crescer como profissional na área da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e interesses
+
+- 💻 Python
+- 🌐 Desenvolvimento de software
+- 🧠 Aprendizado contínuo
+- 🤝 Empreendedorismo em tecnologia
+
+### 📫 Como me encontrar
+
+- Email: arthuroliveirasouza@gmail.com 
+- GitHub:https://github.com/arthur-tech99
