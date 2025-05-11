@@ -17,3 +17,4 @@ Busco todos os dias expandir meus conhecimentos e crescer como profissional na Ã
 
 - Email: arthuroliveirasouza@gmail.com 
 - GitHub:https://github.com/arthur-tech99
+- linkedin: https://www.linkedin.com/in/arthur-oliveira-2a1506365/
